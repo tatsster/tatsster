@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, Don't bother me</h1>
 <h3 align="center">Backend Software Engineer at Tiki Corp</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nhanpham2-tiki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tatsster&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nhanpham2-tiki](https://github.com/nhanpham2-tiki) and [https://github.com/tatsster](https://github.com/tatsster)
+- 👨‍💻 All of my projects are available at [https://github.com/tatsster](https://github.com/tatsster) and [https://github.com/tatsster](https://github.com/tatsster)
 
 - 💬 Ask me about **Backend and Data Engineer**
 
@@ -104,9 +104,9 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanpham2-tiki&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatsster&show_icons=true&locale=en&layout=compact"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanpham2-tiki&show_icons=true&locale=en"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatsster&show_icons=true&locale=en"/></p>
 <!---
 nhanpham2-tiki/nhanpham2-tiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
