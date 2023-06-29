@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, Don't bother me</h1>
-<h3 align="center">Backend Software Engineer at Tiki Corp</h3>
+<h3 align="center">Backend Software Engineer at Axon Public Safety</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tatsster&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tatsster](https://github.com/tatsster) and [https://github.com/tatsster](https://github.com/tatsster)
+- 👨‍💻 All of my projects are available at [https://github.com/tatsster](https://github.com/tatsster) and [https://github.com/nhanpham2-tiki](https://github.com/nhanpham2-tiki)
 
 - 💬 Ask me about **Backend and Data Engineer**
 
